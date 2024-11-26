@@ -1,0 +1,38 @@
+img{height: 100px;
+width: 50px;
+margin-left: 0px;}
+h1{font-size: 24px;}
+.nav-item{font-size: 24px;font-size:xx-large; transition: 0.5s;}
+.nav-item:hover{text-decoration: underline; color: yellow !important;}
+.nav-item:hover span {
+   color:yellow ; 
+}
+.bg-body-tertiary {background-color: rgb(34,139,34) !important;}
+ #navbarSupportedContent{display: flex !important;
+    justify-content: center !important;}
+
+#FrontItem{padding-left: 100PX;}
+#Cp{height:  300px;}
+
+.Social{   background-color: rgb(60,179,113);  }
+.Socialimg{
+   display: flex;
+   justify-content:  space-around;
+   padding-bottom: 20px;
+
+}
+#spic{height: 80px;
+   width: 100px;}
+h2{ text-align: center;
+   font-size: 16px;
+font-size: x-large;
+color: blue;
+text-decoration: underline;
+}
+
+#butCard{margin-left: 70px;}
+.CompCards{display: flex;  justify-content:  space-around; background-color: rgb(0,250,154); }
+.Sponsor{background-color:rgb(47,79,79) ;}
+
+.form-control me-2:focus{color: yellow;}
+.carousel-control-next-icon{background-color: red;}
