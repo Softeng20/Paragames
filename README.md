@@ -1,2 +1,1 @@
-Live:
-https://github.com/Softeng20/Paragames/new/main?filename=README.md
+ https://softeng20.github.io/Paragames/index.html
